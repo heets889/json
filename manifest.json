@@ -1,14 +1,14 @@
 {
-  "short_name": "DATASITUS",
-  "name": "DATASITUS APP",
+  "short_name": "INFOSITUS",
+  "name": "INFOSITUS APP",
   "icons": [
     {
-      "src": "https://107.152.46.170/assets/img/datasitus.png",
+      "src": "https://bit.ly/3KRBlJQ",
       "type": "image/png",
       "sizes": "350x350"
     }
   ],
-  "start_url": "https://107.152.46.170/",
+  "start_url": "https://perabotwslt99.blogspot.com/",
   "background_color": "#13273b",
   "display": "standalone",
   "theme_color": "#000000"
